@@ -2,5 +2,5 @@ nom : Desfarges
 prenom : Yann
 sexe : 1
 taille : 1,78 mêtre
-couleur préférée : Vert
 endroit où je suis né : Talence.
+artiste favori Thimeo Tonon
